@@ -1,2 +1,2 @@
-# sistema-de-estacionamento
-★ 𓂃 sistema simples para controle de veículos em estacionamentos.
+## ★ 𓂃 𓍢 :gear: 。sistema de estacionamento.
+Este é um projeto simples, contruído com o objetivo de exercitar o uso do **Typescript** na prática. O usuário insere o nome e a placa do veículo que chegou ao estacionamento e então os dados, incluindo a data e o horário de entrada, ficam cadastrados enquanto ainda permanecer no local. Assim que o veiculo sai, é possível deletá-lo da tabela do estacionamento através de um botão de remoção, presente na coluna de ações.
